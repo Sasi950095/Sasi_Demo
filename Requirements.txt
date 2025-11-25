@@ -1,2 +1,3 @@
 Forward mode: Maximum speed:100
-Reverse mode: Minimum speed:30 
+Reverse mode: Minimum speed:30
+Check file
